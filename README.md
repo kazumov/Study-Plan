@@ -1,2 +1,3 @@
-# Study-Plan
+# Study Plan
 The study plan
+
