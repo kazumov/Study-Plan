@@ -1,14 +1,7 @@
 # Study Plan
 
-The study plan
+The study plan...
 
-## Data Science
-- Advanced Linear Algebra
-- Advanced Statistics
-- Regression
-- Classification
-- Predictive Models
-  
 ## Languages
 - R (data science, data analysis)
 - Python (general)
@@ -16,6 +9,13 @@ The study plan
 - C# (Microsoft)
 - Swift (iOS, macOS)
 - Kotlin (Android)
+
+## Data Science
+- Advanced Linear Algebra
+- Advanced Statistics
+- Regression
+- Classification
+- Predictive Models
 
 ## Machine Learning
 
@@ -75,3 +75,47 @@ The study plan
 - Kohonen Network (KN)
 - Support Vector Machine (SVM)
 - Neural Turing Machine (NTM)
+
+## Robotic Process Automation
+
+## Architecture
+- Global
+  - Solid Systems
+  - Micro Services
+    - REST
+- OOP
+    - Creational Patterns
+      - Abstract Factory
+      -  Factory Method
+      -  Builder
+      -  Prototype
+      -  Singleton
+   - Structural Patterns
+     - Adapter
+     - Bridge
+     - Composite
+     - Decorator
+     - Facade
+     - Flyweight
+     - Proxy
+   - Behavioural Patterns
+     - Chain of Responsibility
+     - Command
+     - Interpreter
+     - Iterator
+     - Mediator
+     - Memento
+     - Observer
+     - State
+     - Strategy
+     - Template
+     - Visitor
+  
+## Technology
+- Git
+- AWS
+- IBM
+- Azure 
+- UX
+
+## Security
